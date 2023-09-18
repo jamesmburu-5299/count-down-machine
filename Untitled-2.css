@@ -1,0 +1,20 @@
+body{
+    background-image: url('KILAVI.JPG.jpg');
+    background-size: cover;
+    min-height: 100vh;
+    text-align: center;
+}
+button{
+    text-align: center;
+}
+header{
+   background-color: antiquewhite;
+   display: flex
+}
+.nav{
+    float: left;
+    text-align: center;
+    margin: 10px;
+    display: block;
+}
+
